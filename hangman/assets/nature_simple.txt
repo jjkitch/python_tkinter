@@ -1,0 +1,50 @@
+bark: The outer covering of a tree trunk.
+bluff: A high, steep bank or cliff.
+bloom: When flowers open up.
+bough: A large branch of a tree.
+brook: A small, flowing stream.
+breeze: A gentle wind.
+briar: A plant with thorny stems.
+canopy: The top layer of a forest.
+cedar: A type of tree with fragrant wood.
+cliff: A high, steep face of rock.
+cloud: A mass of condensed water vapor in the sky.
+creek: A small stream or river.
+dunes: Hills of sand created by the wind.
+flora: The plants found in a particular area.
+grove: A small group of trees.
+hazel: A type of small tree with edible nuts.
+herbs: Plants used for food, medicine, or flavoring.
+hills: Raised areas of land smaller than mountains.
+islet: A very small island.
+leaves: Flat parts of a plant that grow from the stem.
+lotus: A type of water flower.
+maple: A tree known for its sap, used to make syrup.
+mossy: Covered with soft, small green plants.
+oasis: A fertile spot in the desert where water is found.
+petal: The colored part of a flower.
+pine: A type of evergreen tree.
+pond: A small body of still water.
+reed: A tall, slender plant growing in water.
+ridge: A long, narrow hilltop or mountain range.
+rocks: Solid mineral material forming part of the earth.
+roots: The part of a plant that grows underground.
+shore: The land along the edge of a body of water.
+slope: A surface of which one end is higher than the other.
+stone: A small piece of rock.
+thick: Having many plants growing close together.
+thorn: A sharp point on a plant.
+trail: A path through a forest or countryside.
+trunk: The main stem of a tree.
+valley: A low area of land between hills or mountains.
+vines: Plants with long stems that grow along the ground or climb.
+windy: Characterized by strong wind.
+woods: A small forested area.
+wheat: A type of grain used to make flour.
+fern: A leafy, non-flowering plant.
+glade: An open space in a forest.
+grove: A small group of trees.
+heath: Open, uncultivated land covered with low vegetation.
+larch: A type of tree with needles that fall off in winter.
+ridge: A long, narrow elevation of land.
+birch: A tree with white bark.

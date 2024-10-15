@@ -1,0 +1,49 @@
+doctor: A medical professional who treats illnesses and injuries.
+teacher: An educator responsible for instructing students.
+engineer: A person who designs and builds machines, structures, or systems.
+scientist: A person who conducts research to advance knowledge in various fields.
+farmer: An individual who cultivates crops and raises livestock.
+pilot: A professional who flies aircraft.
+chef: A skilled cook who runs a kitchen.
+writer: An individual who creates written works such as books or articles.
+soldier: A person who serves in the army.
+architect: A professional who designs buildings.
+musician: A person skilled in playing instruments or singing.
+actor: A performer who portrays characters in movies, plays, or TV shows.
+nurse: A healthcare worker who cares for patients.
+painter: An artist who uses paint to create works of art or decorates surfaces.
+carpenter: A skilled worker who constructs and repairs wooden structures.
+plumber: A person who installs and repairs pipes and plumbing systems.
+electrician: A tradesperson who works with electrical systems.
+lawyer: A legal professional who represents clients in court.
+judge: An official who presides over court cases.
+mechanic: A person who repairs and maintains vehicles or machinery.
+driver: A person who operates a vehicle.
+baker: An individual who bakes bread, cakes, and pastries.
+firefighter: A professional who extinguishes fires and rescues people.
+police: A law enforcement officer who maintains public order.
+sailor: A person who works on or operates a ship.
+fisherman: An individual who catches fish for a living.
+hunter: A person who hunts animals for food or sport.
+gardener: A person who tends and cultivates gardens.
+veterinarian: An animal doctor who treats sick or injured animals.
+pharmacist: A healthcare professional who dispenses medications.
+librarian: A person who manages a library and assists with finding information.
+priest: A religious leader who performs ceremonies and provides spiritual guidance.
+blacksmith: A skilled worker who forges items from iron and steel.
+butcher: A person who prepares and sells meat.
+tailor: A skilled worker who makes or alters clothes.
+dancer: A performer who expresses art through movement and dance.
+athlete: A person who competes in physical sports.
+manager: A person responsible for overseeing and directing operations or teams.
+detective: A law enforcement officer who investigates crimes.
+barber: A professional who cuts and styles hair.
+programmer: A person who writes and maintains computer code.
+designer: An individual who creates visual, structural, or functional designs.
+director: A person who oversees and coordinates creative projects such as films.
+coach: A person who trains athletes or teams in sports.
+janitor: A person responsible for cleaning and maintaining buildings.
+banker: A professional who works in banking and finance.
+cashier: A person who handles transactions at a store or business.
+counselor: A professional who provides advice and guidance, often in mental health.
+journalist: A person who writes news articles and reports on current events.

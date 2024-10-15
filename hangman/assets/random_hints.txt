@@ -1,0 +1,50 @@
+apple: A round fruit commonly red, green, or yellow, often associated with health.
+guitar: A stringed musical instrument, typically played by strumming or plucking.
+castle: A large fortified building, historically used by royalty or nobility.
+pencil: A tool used for writing or drawing, often made of wood with a graphite core.
+mirror: A reflective surface, usually glass, used for viewing oneself.
+bottle: A container with a narrow neck, typically used to hold liquids.
+window: An opening in a wall or roof, often fitted with glass, to let in light or air.
+bridge: A structure built to span physical obstacles such as rivers or roads.
+lantern: A portable light source typically enclosed in a protective casing.
+piano: A large musical instrument played by pressing keys that strike strings.
+star: A luminous point in the sky, often visible at night, made of hot gases.
+cloud: A visible mass of condensed water vapor floating in the atmosphere.
+rocket: A vehicle designed to propel itself by expelling exhaust at high speed.
+spaceship: A craft designed for travel or operation in outer space.
+bicycle: A two-wheeled vehicle propelled by pedals.
+helmet: Protective gear worn on the head, often used for safety in sports or work.
+glove: A garment worn on the hands for protection or warmth.
+shield: A broad piece of armor carried to deflect attacks.
+arrow: A pointed projectile shot from a bow.
+clock: A device used to measure and display time.
+map: A visual representation of an area, showing geography and landmarks.
+telescope: An optical instrument used to view distant objects, especially in space.
+whistle: A small device that makes a high-pitched sound when blown.
+compass: A navigational instrument that shows directions using Earth's magnetic field.
+hammer: A tool with a heavy head used for pounding or striking.
+spoon: A utensil used for eating or stirring, with a shallow bowl and a handle.
+tree: A large plant with a trunk, branches, and leaves.
+umbrella: A portable device used for protection from rain or sunlight.
+diamond: A precious gemstone known for its hardness and brilliance.
+button: A small fastener used to join two parts of a garment or to activate devices.
+camera: A device used to capture photographs or videos.
+pyramid: A monumental structure with a square base and triangular sides, often found in Egypt.
+carpet: A floor covering made from woven fabric or synthetic fibers.
+crown: A circular headpiece, often adorned with jewels, worn by royalty.
+violin: A stringed musical instrument played with a bow.
+train: A series of connected vehicles that travel on tracks.
+snowflake: A unique ice crystal that falls from the sky as snow.
+dragon: A mythical creature, often depicted as a large reptile capable of breathing fire.
+cannon: A large, heavy weapon that fires projectiles.
+wheel: A circular object that rotates and is used to move vehicles or machinery.
+bag: A flexible container used to carry items.
+laptop: A portable personal computer.
+printer: A machine that produces printed copies from digital documents.
+coin: A small, flat, round piece of metal used as currency.
+feather: A lightweight, soft structure covering the bodies of birds.
+radio: A device that receives and plays audio broadcasts.
+crystal: A solid material whose atoms are arranged in a highly ordered structure.
+sword: A bladed weapon used historically for combat.
+moon: Earth's natural satellite, visible at night.
+kite: A lightweight frame covered with material, flown in the air at the end of a string.

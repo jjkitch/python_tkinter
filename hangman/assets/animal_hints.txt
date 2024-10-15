@@ -1,0 +1,50 @@
+tiger: A large striped feline native to Asia.
+elephant: The largest land animal with a trunk.
+giraffe: An animal known for its long neck and tall height.
+spider: An eight-legged arachnid that spins webs.
+monkey: A primate known for climbing trees and its intelligence.
+dolphin: A highly intelligent marine mammal known for its playful nature.
+whale: The largest mammal in the ocean.
+rabbit: A small mammal with long ears that hops.
+crocodile: A large, semi-aquatic reptile with a strong bite.
+penguin: A flightless bird that lives in cold climates and swims.
+zebra: An African equid known for its black and white stripes.
+panther: A large, black wild cat, often a melanistic variant of a leopard or jaguar.
+eagle: A powerful bird of prey with sharp eyesight.
+falcon: A fast-flying bird of prey.
+shark: A large fish known for its sharp teeth and predatory behavior.
+lion: The king of the jungle, known for its majestic mane.
+jaguar: A large cat species native to the Americas, known for its powerful bite.
+buffalo: A large, horned bovid that grazes in herds.
+hyena: A scavenging mammal known for its 'laughing' calls.
+koala: An arboreal marsupial native to Australia, known for eating eucalyptus leaves.
+octopus: A sea creature with eight arms and high intelligence.
+ostrich: The largest bird, known for running fast but cannot fly.
+squirrel: A small rodent that stores nuts and is known for its bushy tail.
+tortoise: A slow-moving reptile with a hard shell.
+butterfly: An insect known for its colorful wings and metamorphosis.
+dragonfly: An agile flying insect often seen near water.
+parrot: A colorful bird known for its ability to mimic sounds.
+seal: A marine mammal with flippers and a playful nature.
+wolf: A social canine known for living in packs.
+raccoon: A nocturnal mammal with a distinctive black 'mask' and ringed tail.
+moose: A large deer species with broad antlers found in northern regions.
+vulture: A scavenging bird known for its bald head and circling behavior.
+otter: A playful, semi-aquatic mammal that enjoys swimming.
+kangaroo: A marsupial known for hopping and carrying its young in a pouch.
+gorilla: A large, powerful primate native to central Africa.
+lemur: A primate native to Madagascar with large eyes and a long tail.
+chimpanzee: A highly intelligent primate, closely related to humans.
+peacock: A bird known for its large, colorful tail feathers.
+antelope: A swift herbivore with horns, found in Africa and Asia.
+flamingo: A pink bird that stands on one leg and filters food from water.
+lobster: A marine crustacean with a hard shell and large claws.
+jellyfish: A gelatinous sea creature with stinging tentacles.
+seahorse: A small marine fish with a curled tail, resembling a horse.
+platypus: An egg-laying mammal with a duck-like bill, native to Australia.
+beaver: A large rodent known for building dams and lodges.
+fox: A small, cunning wild canine with a bushy tail.
+bat: A flying mammal known for using echolocation.
+rhinoceros: A large, thick-skinned herbivore with one or two horns.
+cheetah: The fastest land animal, known for its speed in chasing prey.
+hedgehog: A small mammal with spines on its back for defense.

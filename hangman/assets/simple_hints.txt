@@ -1,0 +1,51 @@
+apple: A common fruit that is red, green, or yellow.
+ball: A round object used in many sports.
+cat: A small pet that purrs and meows.
+dog: A loyal pet that barks.
+fish: A creature that swims in water.
+tree: A tall plant with leaves and branches.
+book: Something you read, full of pages.
+car: A vehicle that you drive on the road.
+hat: Something you wear on your head.
+moon: A round object in the sky at night.
+shoe: Something you wear on your feet.
+key: A small object that unlocks doors.
+bird: A creature that flies and has feathers.
+cup: Something you drink from.
+frog: A small green animal that jumps.
+star: A bright object in the night sky.
+duck: A bird that quacks and swims.
+lamp: A device that gives light.
+boat: A small vessel that floats on water.
+kite: A toy that flies in the wind.
+pen: Something you use to write with.
+sock: A piece of clothing worn on your foot.
+cake: A sweet dessert often eaten at parties.
+door: An entryway you open and close.
+milk: A white drink from cows.
+rain: Water that falls from the sky.
+train: A long vehicle that runs on tracks.
+sun: The bright star that shines during the day.
+egg: A round food, often from chickens.
+cake: A sweet treat, often with frosting.
+bag: Something used to carry items.
+coin: A small round piece of money.
+toy: Something children play with.
+tree: A tall plant with branches and leaves.
+bus: A large vehicle that carries many passengers.
+box: A container with sides, often used to store things.
+soap: A substance used for cleaning.
+bed: A piece of furniture where you sleep.
+fan: A device that blows air to keep you cool.
+plate: A flat dish used to hold food.
+grass: Green plants that cover the ground.
+fork: A utensil used to eat food.
+pizza: A flat food with cheese and toppings.
+snow: Frozen water that falls from the sky.
+glove: A piece of clothing worn on the hands.
+bike: A two-wheeled vehicle you pedal.
+flag: A piece of cloth with colors or symbols.
+juice: A drink made from fruits.
+broom: A tool used for sweeping the floor.
+pig: A farm animal that oinks.
+bell: A device that makes a ringing sound.

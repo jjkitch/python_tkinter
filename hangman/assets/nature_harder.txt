@@ -1,0 +1,50 @@
+acorn: A small nut from an oak tree.
+autumn: The season when leaves fall.
+beetles: Insects with hard outer wings.
+bracken: A type of large fern found in woods.
+cypress: A type of evergreen tree.
+daylight: The natural light from the sun.
+evergreen: A plant that stays green year-round.
+flowers: Plants known for their colorful blooms.
+foothill: A low hill at the base of a mountain.
+granite: A hard type of rock found in mountains.
+hawthorn: A shrub or tree with small red berries.
+horizon: The line where the sky meets the land.
+leaflet: A small leaf or part of a larger leaf.
+lightning: A natural electrical discharge during storms.
+marshland: Wetland areas covered with tall grasses.
+meadows: Open fields covered with grass and wildflowers.
+mountain: A large elevation of the earth's surface.
+nestling: A young bird still in its nest.
+oakwood: A forest mainly made up of oak trees.
+pebbles: Small, smooth stones found by water.
+pinecone: A seed-producing cone from a pine tree.
+rainfall: The amount of rain that falls.
+riverside: The land along the edge of a river.
+sapling: A young tree.
+sequoias: A type of giant tree found in forests.
+snowfall: When snow falls from the sky.
+spruces: A type of evergreen tree.
+streams: Small, narrow bodies of flowing water.
+sunlight: The light that comes from the sun.
+thicket: A dense group of bushes or trees.
+treetop: The uppermost part of a tree.
+walnuts: Edible nuts that grow on walnut trees.
+willows: Trees with long, drooping branches.
+wildlife: Animals that live naturally in an area.
+woodland: Land covered with trees and shrubs.
+butterfly: A colorful flying insect with wings.
+caterpillars: Larvae of butterflies and moths.
+cloverleaf: A small plant with leaves divided into three parts.
+cornfield: A field where corn is grown.
+crickets: Insects known for their chirping sound.
+driftwood: Wood washed up on shore by water.
+fernleaf: The leaf of a fern plant.
+fireflies: Insects that produce light in the dark.
+forester: A person who manages and cares for forests.
+landslide: A large mass of earth that slides down a slope.
+rainstorm: A storm with heavy rain.
+riverbank: The land along the edge of a river.
+sunshine: The light and warmth of the sun.
+wildcats: Feral cats that live in the wild.
+windmill: A structure that uses wind to generate power.
